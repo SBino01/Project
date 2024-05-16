@@ -1,5 +1,5 @@
 numpy
-python==3.8
+python==3.11
 pandas
 datasets
 load_dataset
