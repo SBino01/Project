@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-
+import pandas as pd
 def plot_function(a, b, c):
     x = np.linspace(-10, 10, 400)
     y = a * x**2 + b * x + c
