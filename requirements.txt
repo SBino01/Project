@@ -1,5 +1,5 @@
-python
 streamlit
+python==3.8
 numpy
 pandas
 datasets
