@@ -1,6 +1,5 @@
-streamlit
-python==3.8
 numpy
+python==3.8
 pandas
 datasets
 load_dataset
